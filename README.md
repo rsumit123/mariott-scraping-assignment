@@ -59,9 +59,8 @@ The following software is required to run the scraper:
 
 ## Output
 
-The extracted data will be saved in a CSV file named `hotel_code_data.csv`. The CSV file will contain the following columns:
+The extracted data will be saved in a CSV file named `output/hotel_code_data.csv`. The CSV file will contain the following columns:
 
-c
 
 - `checkin`: The checkin time
 - `PerNight`: per night time without taxes
