@@ -1,9 +1,9 @@
 ,checkin,PerNight,checkout,roomname,ratename,StayTotalwTaxes,currency,availability,cancelpolicy,paymentpolicy
-0,"Sat, Apr 29",237.0,"Sun, Apr 30","Standard, Guest room, 1 King",Member Rate Flexible,271.0,USD,NA,NA,NA
-1,"Sat, Apr 29",249.0,"Sun, Apr 30","Standard, Guest room, 1 King",Flexible Rate,285.0,USD,NA,NA,NA
-2,"Sat, Apr 29",265.0,"Sun, Apr 30","1 Bedroom Suite, 1 King, Sofa bed",Member Rate Flexible,303.0,USD,Almost Sold Out,NA,NA
-3,"Sat, Apr 29",279.0,"Sun, Apr 30","1 Bedroom Suite, 1 King, Sofa bed",Flexible Rate,319.0,USD,Almost Sold Out,NA,NA
-4,"Sat, Apr 29",275.0,"Sun, Apr 30","Executive Suite, 1 King, Sofa bed",Member Rate Flexible,315.0,USD,Almost Sold Out,NA,NA
-5,"Sat, Apr 29",289.0,"Sun, Apr 30","Executive Suite, 1 King, Sofa bed",Flexible Rate,331.0,USD,Almost Sold Out,NA,NA
-6,"Sat, Apr 29",1425.0,"Sun, Apr 30","Studio Commons, 4 Bedroom Suite, 4 King",Member Rate Flexible,1633.0,USD,Almost Sold Out,NA,NA
-7,"Sat, Apr 29",1500.0,"Sun, Apr 30","Studio Commons, 4 Bedroom Suite, 4 King",Flexible Rate,1719.0,USD,Almost Sold Out,NA,NA
+0,"Sun, Apr 30",156.0,"Mon, May 1","Studio Suite, 1 Queen(s), Sofa bed",Member Rate Flexible,179.0,USD,NA,NA,NA
+1,"Sun, Apr 30",159.0,"Mon, May 1","Studio Suite, 1 Queen(s), Sofa bed",Flexible Rate,182.0,USD,NA,NA,NA
+2,"Sun, Apr 30",166.0,"Mon, May 1","1 Bedroom 2 room Suite, 1 Queen(s), Sofa bed",Member Rate Flexible,190.0,USD,Almost Sold Out,NA,NA
+3,"Sun, Apr 30",169.0,"Mon, May 1","1 Bedroom 2 room Suite, 1 Queen(s), Sofa bed",Flexible Rate,194.0,USD,Almost Sold Out,NA,NA
+4,"Sun, Apr 30",166.0,"Mon, May 1","Studio Suite, 1 King, Sofa bed",Member Rate Flexible,190.0,USD,Almost Sold Out,NA,NA
+5,"Sun, Apr 30",169.0,"Mon, May 1","Studio Suite, 1 King, Sofa bed",Flexible Rate,194.0,USD,Almost Sold Out,NA,NA
+6,"Sun, Apr 30",229.0,"Mon, May 1","2 Bedroom Suite, Bedroom 1: 1 King, Bedroom 2: 1 Queen(s), Sofa bed",Member Rate Flexible,263.0,USD,NA,NA,NA
+7,"Sun, Apr 30",234.0,"Mon, May 1","2 Bedroom Suite, Bedroom 1: 1 King, Bedroom 2: 1 Queen(s), Sofa bed",Flexible Rate,268.0,USD,NA,NA,NA

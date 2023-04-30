@@ -1,9 +1,13 @@
 ,checkin,PerNight,checkout,roomname,ratename,StayTotalwTaxes,currency,availability,cancelpolicy,paymentpolicy
-0,"Sat, Apr 29",237.0,"Sun, Apr 30","Standard, Guest room, 1 King",Member Rate Flexible,271.0,USD,NA,NA,NA
-1,"Sat, Apr 29",249.0,"Sun, Apr 30","Standard, Guest room, 1 King",Flexible Rate,285.0,USD,NA,NA,NA
-2,"Sat, Apr 29",265.0,"Sun, Apr 30","1 Bedroom Suite, 1 King, Sofa bed",Member Rate Flexible,303.0,USD,Almost Sold Out,NA,NA
-3,"Sat, Apr 29",279.0,"Sun, Apr 30","1 Bedroom Suite, 1 King, Sofa bed",Flexible Rate,319.0,USD,Almost Sold Out,NA,NA
-4,"Sat, Apr 29",275.0,"Sun, Apr 30","Executive Suite, 1 King, Sofa bed",Member Rate Flexible,315.0,USD,Almost Sold Out,NA,NA
-5,"Sat, Apr 29",289.0,"Sun, Apr 30","Executive Suite, 1 King, Sofa bed",Flexible Rate,331.0,USD,Almost Sold Out,NA,NA
-6,"Sat, Apr 29",1425.0,"Sun, Apr 30","Studio Commons, 4 Bedroom Suite, 4 King",Member Rate Flexible,1633.0,USD,Almost Sold Out,NA,NA
-7,"Sat, Apr 29",1500.0,"Sun, Apr 30","Studio Commons, 4 Bedroom Suite, 4 King",Flexible Rate,1719.0,USD,Almost Sold Out,NA,NA
+0,"Sun, Apr 30",264.0,"Mon, May 1","1 King Bed, Guest Room",Member Flexible Rate,302.0,USD,NA,NA,NA
+1,"Sun, Apr 30",,"Mon, May 1","1 King Bed, Guest Room",Flexible Rate,308.0,USD,NA,NA,NA
+2,"Sun, Apr 30",264.0,"Mon, May 1","2 Queen Beds, Guest Room",Member Flexible Rate,302.0,USD,NA,NA,NA
+3,"Sun, Apr 30",269.0,"Mon, May 1","2 Queen Beds, Guest Room",Flexible Rate,308.0,USD,NA,NA,NA
+4,"Sun, Apr 30",278.0,"Mon, May 1","1 King Bed, Corner, Guest Room",Member Flexible Rate,311.0,USD,NA,NA,NA
+5,"Sun, Apr 30",278.0,"Mon, May 1","1 King Bed, Corner, Guest Room",Flexible Rate,318.0,USD,NA,NA,NA
+6,"Sun, Apr 30",272.0,"Mon, May 1","2 Queen Beds, Corner, Guest Room",Member Flexible Rate,311.0,USD,NA,NA,NA
+7,"Sun, Apr 30",278.0,"Mon, May 1","2 Queen Beds, Corner, Guest Room",Flexible Rate,318.0,USD,NA,NA,NA
+8,"Sun, Apr 30",283.0,"Mon, May 1","1 King Bed, New York City Skyline View, Guest Room",Member Flexible Rate,324.0,USD,NA,NA,NA
+9,"Sun, Apr 30",289.0,"Mon, May 1","1 King Bed, New York City Skyline View, Guest Room",Flexible Rate,331.0,USD,NA,NA,NA
+10,"Sun, Apr 30",283.0,"Mon, May 1","2 Queen Beds, New York City Skyline View, Guest Room",Member Flexible Rate,324.0,USD,NA,NA,NA
+11,"Sun, Apr 30",289.0,"Mon, May 1","2 Queen Beds, New York City Skyline View, Guest Room",Flexible Rate,331.0,USD,NA,NA,NA
